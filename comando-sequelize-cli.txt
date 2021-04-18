@@ -1,0 +1,6 @@
+migração do Sequelize
+npx sequelize-cli db:migrate
+
+popular tabelas com dados fake
+npx sequelize-cli db:seed:all
+
